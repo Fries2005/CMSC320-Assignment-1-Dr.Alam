@@ -10,3 +10,7 @@ Answer: It could be applied to Environmental Science to see trends of pollution,
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging will combine changes from both branches, preserving the history of the respository while rebasing takes new commits and applies them to the tip of the main branch, rewriting the repository history.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my python skills, working with meaningful libraries, and ultimately create a meaningful project using the various libraries and tools taught in this course.
