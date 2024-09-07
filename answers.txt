@@ -1,3 +1,8 @@
 Q1: Why might be consider using git?
 
 Answer: For version control!
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could be applied to Environmental Science to see trends of pollution, and visualize potential solutions.
+
