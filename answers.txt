@@ -6,3 +6,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: It could be applied to Environmental Science to see trends of pollution, and visualize potential solutions.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will combine changes from both branches, preserving the history of the respository while rebasing takes new commits and applies them to the tip of the main branch, rewriting the repository history.
